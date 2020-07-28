@@ -18,3 +18,11 @@ Usage:
 su
 
 ./mon.sh
+
+Resources used:
+
+https://www.androidtcpdump.com/android-tcpdump/downloads
+
+https://www.linux-geex.com/decode-cdp-lldp-packets-tcpdump/
+
+https://dazdaztech.wordpress.com/2013/05/17/using-tcpdump-to-see-cdp-or-lldp-packets/
