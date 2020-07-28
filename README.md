@@ -7,7 +7,7 @@ Setup Instructions:
 
 su
 
-curl -o https://raw.githubusercontent.com/downloadtheworld/LLDP-On-Android/master/get-files.sh
+curl -O https://raw.githubusercontent.com/downloadtheworld/LLDP-On-Android/master/get-files.sh
 
 chmod +x get-files.sh
 
