@@ -1,9 +1,9 @@
 # LLDP-On-Android
 Scripts to download and use tcpdump and use it for capturing LLDP packets
 
-Needs rooted Android phone and a terminal emulator
+Needs rooted Android device, a terminal emulator and a USB network adapter (or network port built into your Android device)
 
-Setup Instructions:
+## Setup Instructions:
 
 su
 
@@ -13,7 +13,7 @@ chmod +x get-files.sh
 
 ./get-files.sh
 
-Usage:
+## Usage:
 
 su
 
